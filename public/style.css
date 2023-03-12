@@ -1,0 +1,60 @@
+html, body {
+  height: 90%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+#chat {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: solid 1px ;
+  margin: 0 20%;
+}
+
+input {
+  width: 85%;
+  /*border: 1px solid #ddd;*/
+  height: 25px;
+  padding: 0 20px;
+  font-size: 15px;
+ 
+}
+
+button {
+  width: 30%;
+  height: 25px;
+  font-size: 15px;
+  background: #069;
+  text-align: center;
+  /*line-height: 50px;
+  font-weight: bold;*/
+  color: #FFF;
+  margin-top: 10px;
+}
+
+.messages {
+  width: 90%;
+  height: 400px;
+  margin: 20px 0;
+  border: 1px solid #ddd;
+  padding: 20px;
+  
+}
+
+.campoTexto{
+    display: flex;
+    width: 90%;
+    padding: 15px;
+}
+
+.campoTexto input{
+
+}
