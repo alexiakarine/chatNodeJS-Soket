@@ -1,3 +1,3 @@
 # chatNodeJ-Soket
 chat realiado com NodeJS  e Socket
-![alt text](path/to/file)
+![chat](https://github.com/alexiakarine/chatNodeJS-Soket/blob/main/chat.jpeg)
